@@ -1,4 +1,4 @@
-baseurl = "https://etnik.krasniqi.osesose.com"
+baseurl = "http://etnik.krasniqi.oseose.com"
 title = "Etnik Krasniqi"
 
 theme = "hugo-coder"
@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
 
-    dateformat = "January 2, 2006"
+    dateformat = "January 2, 2019"
 
     hideCredits = false
     hideCopyright = false
